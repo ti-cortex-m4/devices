@@ -1,0 +1,1 @@
+regsvr32.exe bdeinst.dll

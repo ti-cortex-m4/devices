@@ -1,0 +1,4 @@
+INSERT INTO UserGroups (UserGroupID, UserGroupName) VALUES (1, "Супервизоры");
+INSERT INTO UserGroups (UserGroupID, UserGroupName) VALUES (2, "Администраторы");
+INSERT INTO UserGroups (UserGroupID, UserGroupName) VALUES (3, "Опытные пользователи");
+INSERT INTO UserGroups (UserGroupID, UserGroupName) VALUES (4, "Пользователи");

@@ -1,0 +1,12 @@
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (1, "Сброс статистики счетчика");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (2, "Добавление группы пользователей");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (3, "Удаление группы пользователей");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (4, "Изменение прав групп пользователей");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (5, "Добавление пользователей");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (6, "Удаление пользователей");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (7, "Изменение прав пользователей");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (8, "Смена параметров счетчика");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (9, "Запись заданий в программатор УСП");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (10, "Чтение параметров счетчика");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (11, "Чтение данных из программатора УСП");
+INSERT INTO AccessTypes (AccessType, AccessName) VALUES (12, "Чтение статистики счетчика");
